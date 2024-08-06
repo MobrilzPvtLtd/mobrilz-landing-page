@@ -1,0 +1,53 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 06 Aug 2024 15:33:00 at https://appventureztech.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://appventureztech.in/ -O1 "C:\My Web Sites\https___appventureztech.in_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/font-playfair/PlayfairDisplay-Regular.ttf (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/font-playfair/PlayfairDisplay-Medium.ttf (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/font-playfair/PlayfairDisplay-SemiBold.ttf (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/font-playfair/PlayfairDisplay-Bold.ttf (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/department-chatBot/data-poweredBanner.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/ezipay/CTA_01.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/tontiy/CTA_02.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/clear/clear_cta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/case_study/matajer_cta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/case_study/asapp_cta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/case_study/dayprise_cta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/toogether/toogether_Cta.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/department-chatBot/CTA_Banner_Orange.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/TontyCTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/MobileCTA02.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/EzipayCTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/ToogethrCTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/ClearCTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/case_study/Matajer_CTA_Mobile.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/case_study/Asapp CTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/case_study/Dayprise_CTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/MobileCTA01.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/amaze-cta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/Gaybnd/gayBndCta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/Radiuz/raiduz-Cta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/Gaybnd/gaybnb_ctaMob.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/Radiuz/RadiuzCTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/moove/MooveCta.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/moove/Moove_CTA_Mobile.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/android/android.svg (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/visionos/visionOsBanner.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/mobile-app-dev/mobile-app-banner.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/mobile-app-dev/bg.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/block-Chain/blockChainBanner.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/ios_page/ios_banner.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/ios_page/bottom-left.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/ios_page/top-right.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/contac_page/contact_banner.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/Odoo/bannerodoo.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/Odoo/right_arrow_white.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/assets/crm/crmBanner.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/style2.css)
+15:33:38	Error: 	"Not Found" (404) at link https://appventureztech.in/wp-content/themes/appventurez_theme/css/owl.video.play.png (from https://appventureztech.in/wp-content/themes/appventurez_theme/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 38 seconds : 111 links scanned, 68 files written (11051861 bytes overall) [10425908 bytes received at 274366 bytes/sec], 993502 bytes transferred using HTTP compression in 75 files, ratio 24%, 37.0 requests per connection
+(42 errors, 0 warnings, 0 messages)
